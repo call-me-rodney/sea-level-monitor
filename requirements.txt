@@ -1,0 +1,22 @@
+# Google Earth Engine
+ee
+geemap
+# Google Drive
+google.colab
+# Image Augmentation
+albumentations
+json
+glob
+# Dataset Generation
+torch
+# Model Training
+segmentation_models_pytorch
+tqdm
+# Data manipulation
+rasterio
+matplotlib
+numpy
+requests
+os
+pandas
+itertools
